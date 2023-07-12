@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  background-color: #000;
+  color: #666;
+  text-align: center;
+}
+
+audio {
+  width: 450px;
+  margin: 20px 0;
+}
+
+.container {
+  height: 420px;
+  overflow: hidden;
+  /* border: 2px solid #fff; */
+}
+
+.container .lrc-list {
+  transition: .6s;
+}
+
+.container .lrc-list li {
+  height: 30px;
+  line-height: 30px;
+  transition: .2s;
+  list-style: none;
+}
+
+.container .lrc-list li.active {
+  color: #fff;
+  transform: scale(1.2);
+}
