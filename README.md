@@ -8,6 +8,7 @@
 
 1. [输入框](https://github.com/zhangb-top/beautiful-components/tree/main/01-%E8%BE%93%E5%85%A5%E6%A1%86)
 2. [玻璃卡片](https://github.com/zhangb-top/beautiful-components/tree/main/02-%E7%8E%BB%E7%92%83%E5%8D%A1%E7%89%87)
+2. [音乐播放器](https://github.com/zhangb-top/beautiful-components/tree/main/03-%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8)
 
 ## 结语
 
